@@ -17,7 +17,6 @@ The CPU contains:
 The program code is stored inside the ROM memory.
 
 Instruction format:
-```text
 [7:4] -> instruction opcode
 [3:0] -> value / register / address
 ## Project Structure
