@@ -18,7 +18,7 @@ The program code is stored inside the ROM memory.
 
 Instruction format:
 [7:4] -> instruction opcode
-[3:0] -> value / register / address
+[3:0] -> value / register
 ## Project Structure
 
 ```text
