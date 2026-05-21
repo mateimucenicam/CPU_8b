@@ -6,7 +6,7 @@ Instruction format:
 
 ```text
 [7:4] -> instruction opcode
-[3:0] -> register / value / address
+[3:0] -> register / value 
 ```
 
 The program is written directly inside the ROM memory.
